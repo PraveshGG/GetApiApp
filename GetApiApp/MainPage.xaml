@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:GetApiApp" x:Class="GetApiApp.MainPage">
+  
+    <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Fav"
+                 Clicked="FavToolbarItem_Clicked"/>
+</ContentPage.ToolbarItems>
+
+    
+    <ListView x:Name="Post_List"
+              ItemSelected="Posts_listView_ItemSelected">  
+             <ListView.ItemTemplate>  
+              <DataTemplate>  
+                <ImageCell Text="{Binding title}" Detail="{Binding id}" ImageSource="{Binding thumbnailUrl}"></ImageCell>               </DataTemplate>  
+          </ListView.ItemTemplate>  
+   </ListView>   
+
+</ContentPage>

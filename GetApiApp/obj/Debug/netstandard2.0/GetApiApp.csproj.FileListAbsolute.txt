@@ -1,0 +1,13 @@
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/bin/Debug/netstandard2.0/GetApiApp.deps.json
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/bin/Debug/netstandard2.0/GetApiApp.dll
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/bin/Debug/netstandard2.0/GetApiApp.pdb
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.csprojAssemblyReference.cache
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.csproj.CoreCompileInputs.cache
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.AssemblyInfoInputs.cache
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.AssemblyInfo.cs
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.dll
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/GetApiApp.pdb
+/Users/praveshgiri/Projects/GetApiApp/GetApiApp/obj/Debug/netstandard2.0/SavedPosts.xaml.g.cs
